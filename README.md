@@ -11,7 +11,7 @@ Este repositorio está dedicado a compartir recursos, trucos y buenas prácticas
 - [Consejos y Atajos de Teclado](#consejos-y-atajos-de-teclado)
 - [Recursos Adicionales](#recursos-adicionales)
 - [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+
 
 ## Introducción
 
@@ -89,7 +89,5 @@ Las contribuciones son bienvenidas. Si deseas colaborar, por favor sigue estos p
 4. Haz push a la rama (`git push origin nueva-funcionalidad`).
 5. Abre un Pull Request.
 
-## Licencia
 
-Este proyecto está bajo la Licencia MIT. Para más información, consulta el archivo [LICENSE](LICENSE).
 
