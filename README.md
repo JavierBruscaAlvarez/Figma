@@ -7,6 +7,7 @@ Este repositorio está dedicado a compartir recursos, trucos y buenas prácticas
 - [Consejos y Atajos de Teclado](#consejos-y-atajos-de-teclado)
 - [Recursos Adicionales](#recursos-adicionales)
 - [Inspiración](#inspiración)
+- [Inspiración para Colores](#inspiración-para-colores)
 - [Contribuciones](#contribuciones)
 
 ## Consejos y Atajos de Teclado
@@ -52,6 +53,14 @@ Encuentra inspiración para tus proyectos de diseño en estos sitios web:
 - [Pttrns](https://www.pttrns.com/)
 - [Awwwards](https://www.awwwards.com/)
 - [One Page Love](https://onepagelove.com/)
+
+## Inspiración para Colores
+
+Descubre paletas de colores y herramientas para crear combinaciones de colores inspiradoras:
+
+- [Color Hunt](https://colorhunt.co/)
+- [Adobe Color](https://color.adobe.com/es/create)
+- [Grabient](https://grabient.com/)
 
 ## Contribuciones
 
