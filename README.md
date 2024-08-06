@@ -8,6 +8,7 @@ Este repositorio está dedicado a compartir recursos, trucos y buenas prácticas
 - [Recursos Adicionales](#recursos-adicionales)
 - [Inspiración](#inspiración)
 - [Inspiración para Colores](#inspiración-para-colores)
+  - [Plugins de Colores](#plugins-de-colores)
 - [Contribuciones](#contribuciones)
 
 ## Consejos y Atajos de Teclado
@@ -61,6 +62,15 @@ Descubre paletas de colores y herramientas para crear combinaciones de colores i
 - [Color Hunt](https://colorhunt.co/)
 - [Adobe Color](https://color.adobe.com/es/create)
 - [Grabient](https://grabient.com/)
+
+### Plugins de Colores
+
+Utiliza estos plugins en Figma para mejorar tu flujo de trabajo con colores:
+
+- [Color Palettes](https://www.figma.com/community/plugin/731627216655469013/Color-Palettes) - Encuentra y aplica paletas de colores populares.
+- [Image Palette](https://www.figma.com/community/plugin/731595253182527033/Image-Palette) - Extrae paletas de colores de imágenes.
+- [Color Blind](https://www.figma.com/community/plugin/740914339041588360/Color-Blind) - Verifica cómo se ven tus diseños para personas con daltonismo.
+- [Pigment](https://www.figma.com/community/plugin/728230755057323528/Pigment) - Genera colores a partir de pigmentos naturales.
 
 ## Contribuciones
 
