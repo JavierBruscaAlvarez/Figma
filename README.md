@@ -79,5 +79,5 @@ Encuentra fuentes tipográficas perfectas para tus proyectos en estos sitios web
 - [Google Fonts](https://fonts.google.com/)
 - [Go Visually](https://govisually.com/)
 - [FontPair](https://www.fontpair.co/)
-- [LeadPages Blog: Best Fonts](https://www.leadpages.net/blog/best-fonts/)
+- [LeadPages Blog: Best Fonts](https://www.leadpages.net/blog/best-google-fonts/)
 
