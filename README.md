@@ -9,7 +9,7 @@ Este repositorio está dedicado a compartir recursos, trucos y buenas prácticas
 - [Inspiración](#inspiración)
 - [Inspiración para Colores](#inspiración-para-colores)
   - [Plugins de Colores](#plugins-de-colores)
-- [Contribuciones](#contribuciones)
+- [Inspiración de Fuentes](#inspiración-de-fuentes)
 
 ## Consejos y Atajos de Teclado
 
@@ -72,12 +72,12 @@ Utiliza estos plugins en Figma para mejorar tu flujo de trabajo con colores:
 - [Color Blind](https://www.figma.com/community/plugin/740914339041588360/Color-Blind) - Verifica cómo se ven tus diseños para personas con daltonismo.
 - [Pigment](https://www.figma.com/community/plugin/728230755057323528/Pigment) - Genera colores a partir de pigmentos naturales.
 
-## Contribuciones
+## Inspiración de Fuentes
 
-Las contribuciones son bienvenidas. Si deseas colaborar, por favor sigue estos pasos:
+Encuentra fuentes tipográficas perfectas para tus proyectos en estos sitios web:
 
-1. Haz un fork del repositorio.
-2. Crea una rama con tu nueva funcionalidad (`git checkout -b nueva-funcionalidad`).
-3. Haz commit de tus cambios (`git commit -m 'Añadir nueva funcionalidad'`).
-4. Haz push a la rama (`git push origin nueva-funcionalidad`).
-5. Abre un Pull Request.
+- [Google Fonts](https://fonts.google.com/)
+- [Go Visually](https://govisually.com/)
+- [FontPair](https://www.fontpair.co/)
+- [LeadPages Blog: Best Fonts](https://www.leadpages.net/blog/best-fonts/)
+
