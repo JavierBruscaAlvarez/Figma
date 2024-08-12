@@ -11,7 +11,7 @@ Este repositorio está dedicado a compartir recursos, trucos y buenas prácticas
 - [Inspiración para Colores](#inspiración-para-colores)
   - [Plugins de Colores](#plugins-de-colores)
 - [Inspiración de Fuentes](#inspiración-de-fuentes)
-- [Inspiración para Botones](#inspiración-para-botones)
+- [Inspiración de Botones](#inspiración-de-botones)
 
 
 ## Consejos y Atajos de Teclado
