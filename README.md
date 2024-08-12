@@ -93,7 +93,7 @@ Encuentra fuentes tipográficas perfectas para tus proyectos en estos sitios web
 - [FontPair](https://www.fontpair.co/)
 - [LeadPages Blog: Best Fonts](https://www.leadpages.net/blog/best-google-fonts/)
 
-## Inspiración de Bototnes
+## Inspiración de Botones
 
 Encuentra botontes perfectos para tus proyectos en estos sitios web:
 
