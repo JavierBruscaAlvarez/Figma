@@ -12,7 +12,7 @@ Este repositorio está dedicado a compartir recursos, trucos y buenas prácticas
   - [Plugins de Colores](#plugins-de-colores)
 - [Inspiración de Fuentes](#inspiración-de-fuentes)
 - [Inspiración de Botones](#inspiración-de-botones)
-
+- [Inspiración de Microinteracciones](#inspiración-de-microinteracciones)
 
 ## Consejos y Atajos de Teclado
 
@@ -95,6 +95,14 @@ Encuentra fuentes tipográficas perfectas para tus proyectos en estos sitios web
 
 ## Inspiración de Botones
 
-Encuentra botontes perfectos para tus proyectos en estos sitios web:
+Encuentra botones perfectos para tus proyectos en estos sitios web:
 
-- Busca "Neumorphic" en la comunidad de figma
+- Busca "Neumorphic" en la comunidad de Figma.
+
+## Inspiración de Microinteracciones
+
+Las microinteracciones son pequeñas animaciones que mejoran la experiencia del usuario al hacer que las interfaces sean más atractivas y fáciles de usar. Encuentra inspiración y ejemplos de microinteracciones en los siguientes sitios web:
+
+- [CodemyUI - Microinteractions](https://codemyui.com/tag/microinteractions/)
+- [LottieFiles - Free Microinteractions](https://lottiefiles.com/free-animations/micro-interaction)
+- [Dribbble - Microinteractions](https://dribbble.com/search/microinteractions)
